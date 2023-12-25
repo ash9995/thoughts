@@ -1,0 +1,527 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "Add      what      you        have      inside" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضف ما بداخلك "
+          }
+        }
+      }
+    },
+    "add   your   thoughts" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضف فكرتك "
+          }
+        }
+      }
+    },
+    "Add what you have inside" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضف ما بداخلك"
+          }
+        }
+      }
+    },
+    "add your thoughts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضف الفكره"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخلف "
+          }
+        }
+      }
+    },
+    "Balanced idea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الفكرة المتوازنه"
+          }
+        }
+      }
+    },
+    "cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الغاء"
+          }
+        }
+      }
+    },
+    "cancele" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الغاء"
+          }
+        }
+      }
+    },
+    "Delete All" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف الكل "
+          }
+        }
+      }
+    },
+    "Describe how you feel" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "صف ما تشعر به "
+          }
+        }
+      }
+    },
+    "Done" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الانتهاء"
+          }
+        }
+      }
+    },
+    "Done button" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زر الاتنهاء"
+          }
+        }
+      }
+    },
+    "how do you feel today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كيف تشعر اليوم؟"
+          }
+        }
+      }
+    },
+    "If this idea is correct, what supports the validity of this idea?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اذا كانت هذه الفكره صحيحه ما الذي يدعم صحه هذا الفكرة ؟"
+          }
+        }
+      }
+    },
+    "Is there any evidence to suggest that this idea is incorrect?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل توجد أي أدلة تشير إلى أن هذه الفكرة غير صحيحة؟"
+          }
+        }
+      }
+    },
+    "My          thoughts" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "افكاري"
+          }
+        }
+      }
+    },
+    "My thoughts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "افكاري"
+          }
+        }
+      }
+    },
+    "Raheeb provides questions that help you explore and understand the roots of negative thoughts in your mind. Join us on the journey of improving your thinking and changing negativity into positivity, to achieve a happier and more balanced life" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رحيب يقدم أسئلة تساعدك في استكشاف وفهم جذور الأفكار السلبية في ذهنك. انضم إلينا في رحلة تحسين تفكيرك وتغيير السلبية إلى إيجابية، لتحقيق حياة أكثر سعادة وتوازنًا."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raheeb provides questions that help you explore and understand the roots of negative thoughts in your mind. Join us on the journey of improving your thinking and changing negativity into positivity, to achieve a happier and more balanced life"
+          }
+        }
+      }
+    },
+    "Raheeb provides questions that help you explore and understand the roots of negative thoughts in your mind. Join us on the journey of improving your thinking and changing negativity into positivity, to achieve a happier and more balanced life." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رحيب يقدم أسئلة تساعدك في استكشاف وفهم جذور الأفكار السلبية في ذهنك. انضم إلينا في رحلة تحسين تفكيرك وتغيير السلبية إلى إيجابية، لتحقيق حياة أكثر سعادة وتوازنًا."
+          }
+        }
+      }
+    },
+    "record" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجل"
+          }
+        }
+      }
+    },
+    "Record" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل "
+          }
+        }
+      }
+    },
+    "save" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ"
+          }
+        }
+      }
+    },
+    "start" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إبدأ"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابدا "
+          }
+        }
+      }
+    },
+    "stop recording" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ايقاف"
+          }
+        }
+      }
+    },
+    "thought     title" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان الفكره "
+          }
+        }
+      }
+    },
+    "thought title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان الفكره"
+          }
+        }
+      }
+    },
+    "What happened to make me think this way?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما الذي حدث ليجعلني أفكر بهذ\n التفكير؟"
+          }
+        }
+      }
+    },
+    "What makes me think this thought is true?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما الذي يجعلني أعتقد أن هذا الفكر صحيح؟"
+          }
+        }
+      }
+    },
+    "What was my reaction?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ماذا كان ردت فعلي؟"
+          }
+        }
+      }
+    },
+    "إبدأ" : {
+
+    },
+    "اجابه طويلة" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اجابه طويلة"
+          }
+        }
+      }
+    },
+    "اضافة فكرة جديدة" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضافة فكرة جديدة"
+          }
+        }
+      }
+    },
+    "اضف فكرتك" : {
+
+    },
+    "اضف ما باخلك " : {
+
+    },
+    "الخلف" : {
+
+    },
+    "الغاء" : {
+
+    },
+    "الفكرة رقم %lld: %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الفكرة رقم %1$lld: %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "الفكرة رقم %1$lld: %2$@"
+          }
+        }
+      }
+    },
+    "انهاء" : {
+
+    },
+    "ايقاف " : {
+
+    },
+    "حفظ" : {
+
+    },
+    "رحيب" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رحيب"
+          }
+        }
+      }
+    },
+    "رحيب يقدم أسئلة تساعدك في استكشاف وفهم جذور الأفكار السلبية في ذهنك. انضم إلينا في رحلة تحسين تفكيرك وتغيير السلبية إلى إيجابية، لتحقيق حياة أكثر سعادة وتوازنًا." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رحيب يقدم أسئلة تساعدك في استكشاف وفهم جذور الأفكار السلبية في ذهنك. انضم إلينا في رحلة تحسين تفكيرك وتغيير السلبية إلى إيجابية، لتحقيق حياة أكثر سعادة وتوازنًا."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raheeb provides questions that help you explore and understand the roots of negative thoughts in your mind. Join us on the journey of improving your thinking and changing negativity into positivity, to achieve a happier and more balanced life"
+          }
+        }
+      }
+    },
+    "زر" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زر"
+          }
+        }
+      }
+    },
+    "زر %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زر %@"
+          }
+        }
+      }
+    },
+    "زر إبدأ " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زر ابدا "
+          }
+        }
+      }
+    },
+    "زر ابدا التسجيل " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "زر ابدا التسجيل "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "start"
+          }
+        }
+      }
+    },
+    "زر ايقاف التسجيل " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "زر ايقاف التسجيل "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "stop"
+          }
+        }
+      }
+    },
+    "سؤال: ما الذي حدث ليجعلني أفكر بهذا التفكير؟" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سؤال: ما الذي حدث ليجعلني أفكر بهذا التفكير؟"
+          }
+        }
+      }
+    },
+    "سجل" : {
+
+    },
+    "صف ما تشعر به " : {
+
+    },
+    "صوره قلم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "صوره قلم "
+          }
+        }
+      }
+    },
+    "عنوان الفكره " : {
+
+    }
+  },
+  "version" : "1.0"
+}

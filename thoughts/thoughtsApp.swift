@@ -1,17 +1,25 @@
-//
-//  thoughtsApp.swift
-//  thoughts
-//
-//  Created by aisha rashid alshammari  on 07/06/1445 AH.
-//
-
 import SwiftUI
 
 @main
-struct thoughtsApp: App {
+struct ThoughtsApp: App {
+    @UIApplicationDelegateAdaptor private var appDelegate: AppDelegate
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
         }
+        .modelContainer(for: TaskModel.self)
+        .environment(\.locale, .init(identifier: "ar"))
     }
 }
+
+class AppDelegate: UIResponder, UIApplicationDelegate {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // Override point for customization after application launch.
+        return true
+    }
+
+    // Add other UIApplicationDelegate methods if needed
+}
+
+
